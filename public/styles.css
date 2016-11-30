@@ -1,14 +1,21 @@
 .left-bar {
   height: 660px;
   background-color: blue;
+  margin-top: 60px;
 }
 
 .feed {
   height: 1073px;
   background-color: orange;
+  margin-top: 60px;
 }
 
 .right-bar {
   height: 570px;
   background-color: green;
+  margin-top: 60px;
+}
+
+.form-group{
+  display: inline-block;
 }
