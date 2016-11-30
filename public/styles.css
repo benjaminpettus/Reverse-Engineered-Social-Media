@@ -20,10 +20,12 @@
   display: inline-block;
 }
 
-.new-form {
+/*.new-form {
   display: inline-block;
-}
- .input-group {
-   border-top-left-radius: 0;
-   border-bottom-left-radius: 0;
+}*/
+
+ .bottom-text {
+   border: 1px;
+   border-style: solid;
+   font-size: 12px;
  }
