@@ -1,33 +1,14 @@
 .left-bar {
-  width: 290px;
   height: 660px;
   background-color: blue;
 }
 
 .feed {
-  width: 590px;
   height: 1073px;
-  margin-left: 5px;
   background-color: orange;
 }
 
 .right-bar {
-  width: 290px;
   height: 570px;
-  margin-left: 5px;
   background-color: green;
 }
-
-/*.row {
-  display: flex;
-}
-.row-centered {
-  text-align: center;
-}
-
-.col-centered {
-  display: inline-block;
-  float: none;
-  text-align: left;
-  margin-right: -4px;
-}*/
