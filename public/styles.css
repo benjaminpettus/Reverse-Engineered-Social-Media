@@ -19,3 +19,11 @@
 .form-group{
   display: inline-block;
 }
+
+.new-form {
+  display: inline-block;
+}
+ .input-group {
+   border-top-left-radius: 0;
+   border-bottom-left-radius: 0;
+ }
