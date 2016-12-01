@@ -6,7 +6,7 @@
 
 .feed {
   height: 1073px;
-  background-color: orange;
+  /*background-color: orange;*/
   margin-top: 60px;
 }
 
@@ -36,24 +36,48 @@
  }
 
 .card {
+  width: 506px;
   margin-top: 10px;
-  margin-left:56px;
+  /*margin-left: 20px;*/
+  box-sizing: border-box;
+  border-radius: 2px;
+  background-clip: padding-box;
+
 }
-
-
+.card .card-image {
+  position: relative;
+  overflow: hidden;
+}
+.card-image {
+  margin-top: -20px;
+}
 
 .dev-logo {
 
   margin-left:-70px;
   display: inline-block;
 }
-
-.pt-content {
-  display: inline-block;
-  
-
+.user-post {
+  margin-left: 60px;
 
 }
+.tweet {
+  display: flex;
+  align-items: flex-start;
+}
+.tagline {
+  margin-top: -10px;
+}
+.pt-content {
+  margin-top: -5px;
+  margin-left: 12px;
+  /*display: inline-block;*/
+}
+
+.card-action {
+  color: gray;
+}
+
 .user-post {
  margin-top: 8px;
 
