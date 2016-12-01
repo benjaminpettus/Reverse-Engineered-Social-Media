@@ -35,6 +35,26 @@
    font-size: 12px;
  }
 
+ .trend-box {
+   background-color: white;
+ }
+
+ .trend-title {
+   color:grey;
+ }
+.topic-list {
+  margin-left: -40px;
+}
+ .topic {
+   list-style-type: none;
+
+ }
+
+ .ranking {
+   color: grey;
+   font-size: 12px;
+ }
+
 .card {
   width: 506px;
   margin-top: 10px;
