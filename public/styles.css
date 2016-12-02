@@ -29,6 +29,12 @@ h4 {
   background-color: white;
 }
 
+.follower {
+  display: inline-flex;
+
+  }
+
+
 .form-group{
   display: inline-block;
 }
@@ -51,7 +57,7 @@ h4 {
  .profile-top {
    width: 262px;
    height: 96px;
-   background-color: #00aced;
+   background-color: #1da1f2;
    border-radius: 5px 5px 0px 0px;
 
  }
@@ -87,6 +93,9 @@ h4 {
 
  .trend-box {
    background-color: white;
+   border: 1px solid;
+   border-radius: 5px 5px 5px 5px;
+   border-color: grey;
  }
 
  .trend-title {
@@ -144,9 +153,37 @@ h4 {
   margin-left: 12px;
   /*display: inline-block;*/
 }
+.gmail {
+  margin-top: 15px;
+  display:flex;
+  flex-
+}
+
+.gicon {
+  width:30px;
+  height:30px;
+  background-color: white;
+  border-radius: 3px 3px 3px 3px;
+}
+
+.logo {
+  margin:5px 0px 0px 5px;
+}
 
 .card-action {
   color: gray;
+}
+
+.card-block {
+  height: 86px;
+  background-color: white;
+  border-radius: 5px 5px 0px 0px;
+}
+.card-footer {
+  height: 47px;
+  border: 1px solid;
+  border-color: #808080;
+  border-radius: 0px 0px 5px 5px;
 }
 
 .user-post {
