@@ -2,6 +2,9 @@ body {
   background-color: #f5f8fa;
 }
 
+h4 {
+  color: grey;
+}
 .navbar {
   background-color: white;
 }
@@ -20,6 +23,10 @@ body {
   height: 570px;
   background-color: green;
   margin-top: 60px;
+}
+
+.follow-box {
+  background-color: white;
 }
 
 .form-group{
