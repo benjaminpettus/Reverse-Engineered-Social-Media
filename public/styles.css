@@ -54,6 +54,7 @@ h4 {
 
 .follow-nfo {
   margin-left: 7px;
+  font-size: 10px;
 }
 
 .follow-bn {
@@ -163,6 +164,15 @@ h4 {
 }
 .user-post {
   margin-left: 60px;
+
+}
+
+.shareicons {
+  margin-top: 6px;
+}
+
+.share {
+  margin-right: 42px;
 
 }
 .tweet {
