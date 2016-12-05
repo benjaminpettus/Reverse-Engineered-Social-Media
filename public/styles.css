@@ -20,11 +20,23 @@ html body {
 }
 
 .tweet-egg {
+
   margin-right:346px;
-  display: flex;
 
 }
 
+.bullet {
+  color: black;
+  font-size: 5px;
+  align-self: flex-start;
+
+}
+.searchbar{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;;
+
+}
 
 h4 {
   color: grey;
@@ -61,7 +73,13 @@ h4 {
   border: 1px solid #e7e7e7;
   border-radius: 5px 5px 0px 0px;
 }
+.flw {
+  color: gray;
+}
 
+.lnk {
+  font-size: 12px;
+}
 .follow {
   margin-left: 8px;
 }
