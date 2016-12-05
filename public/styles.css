@@ -190,7 +190,7 @@ h4 {
  }
 
 .img-box {
-  width: 506px;
+  width: auto;
   margin-top: 10px;
   /*margin-left: 20px;*/
   box-sizing: border-box;
@@ -223,6 +223,16 @@ h4 {
 .share {
   margin-right: 42px;
 
+}
+
+.new-tweets {
+  margin-left: -15px;
+  width: 583px;
+  height: 25px;
+  text-align: center;
+  border-style: solid;
+  border-width: 1px 0px 1px 0px;
+  border-color: #e7e7e7;
 }
 .tweet {
   display: flex;
